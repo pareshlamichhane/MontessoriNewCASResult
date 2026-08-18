@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #e0e0e0;
+    color: #000;
+    font-family: Inter, Arial, sans-serif;
+    font-size: 11px;
+}
+
+body.ledger-body {
+    padding: 20px;
+}
+
+/* Screen View Container - Converted to relative width so it scales cleanly */
+.ledger-page {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 10px;
+    background: #fff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Master Table Layout */
+.ledger-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 10px;
+}
+
+.ledger-table th, 
+.ledger-table td {
+    border: 1px solid #000;
+    padding: 4px;
+}
+
+/* Header Cells */
+.school-title-row th {
+    border: none !important;
+    background: #fff !important;
+    padding: 4px 0 2px 0 !important;
+    text-align: center;
+}
+
+.school-meta-row th {
+    border-left: none !important;
+    border-right: none !important;
+    border-top: none !important;
+    border-bottom: 2px solid #000 !important;
+    background: #fff !important;
+    padding: 2px 0 8px 0 !important;
+    text-align: center;
+}
+
+.school-name-text {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.school-location-text {
+    font-size: 11px;
+}
+
+.register-title {
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 4px;
+}
+
+.ledger-meta-bar {
+    display: block !important;
+    text-align: center;
+    margin-top: 6px;
+    font-size: 11px;
+}
+
+.ledger-meta-bar span {
+    display: inline-block;
+    padding: 0 8px;
+}
+
+.area-header {
+    background-color: #e2e8f0 !important;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    padding: 6px 8px;
+}
+
+.comp-header {
+    height: 100px;
+    vertical-align: bottom;
+    padding: 6px 2px !important;
+    background-color: #f0f0f0;
+}
+
+.comp-header div {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    text-align: left;
+    margin: 0 auto;
+    max-height: 95px;
+    display: inline-block;
+}
+
+.comp-header span {
+    white-space: normal;
+    word-wrap: break-word;
+    word-break: break-word;
+    display: inline-block;
+    line-height: 1.1;
+    max-width: 95px;
+}
+
+.roll-col { width: 40px; white-space: nowrap; background-color: #f0f0f0; }
+.name-col { text-align: left; width: 160px; white-space: nowrap; background-color: #f0f0f0; }
+.student-name { font-weight: 600; text-align: left; white-space: nowrap; }
+.overall-cell { font-weight: 700; background: #fafafa; }
+.text-center { text-align: center; }
+.text-left { text-left; }
+
+.ledger-signatures {
+    width: 100%;
+    margin-top: 35px;
+    table-layout: fixed;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.sig-line {
+    border-bottom: 1px solid #000;
+    width: 70%;
+    margin: 0 auto 5px;
+}
+
+/* Clean Print Rules allowing scale adjustment */
+@media print {
+    @page {
+        size: A4 landscape;
+    }
+
+    html, body, body.ledger-body {
+        background: #fff;
+        margin: 0;
+        padding: 0;
+    }
+
+    .ledger-page {
+        width: 100%;
+        max-width: 100%;
+        padding: 0;
+        margin: 0;
+        box-shadow: none;
+        background: transparent;
+    }
+
+    .ledger-table {
+        width: 100%;
+    }
+
+    .ledger-table thead {
+        display: table-header-group;
+    }
+
+    .ledger-table tr {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    .ledger-signatures {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+}

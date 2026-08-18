@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Select Result</title>
+</head>
+
+
+<body>
+
+
+<h2>Generate CAS Result</h2>
+
+
+<select id="class">
+<option value="Nursery">Nursery</option>
+<option value="LKG">LKG</option>
+<option value="UKG">UKG</option>
+</select>
+
+
+<select id="term">
+
+<option value="First">First</option>
+<option value="Second">Second</option>
+<option value="Final">Final</option>
+
+</select>
+
+
+<select id="year">
+
+<option value="2083">2083 B.S.</option>
+
+</select>
+
+
+
+<button onclick="openResult()">
+View Result
+</button>
+
+
+
+
+<script>
+
+function openResult(){
+
+
+let c=document.getElementById("class").value;
+
+let t=document.getElementById("term").value;
+
+let y=document.getElementById("year").value;
+
+
+
+window.location.href =
+`index.html?class=${c}&term=${t}&year=${y}`;
+
+
+}
+
+</script>
+
+
+</body>
+
+</html>

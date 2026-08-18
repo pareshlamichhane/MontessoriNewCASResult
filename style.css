@@ -1,0 +1,553 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Libre+Baskerville:wght@700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --ink: #000000;
+    --muted: #333333;
+    --line: #000000;
+    --light-line: #666666;
+    --soft: #ffffff;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+    color: var(--ink);
+    font-family: Inter, Arial, sans-serif;
+    font-size: 13px;
+}
+
+body {
+    padding: 28px 0;
+}
+
+.report-page {
+    width: 210mm;
+    height: 297mm;
+    min-height: 297mm;
+    max-height: 297mm;
+    margin: 0 auto 28px;
+    padding: 12.7mm;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    break-after: page;
+    page-break-after: always;
+}
+
+.report-page:last-child {
+    break-after: auto;
+    page-break-after: auto;
+}
+
+/* --- Header Section --- */
+.report-header {
+    border: 2px solid var(--ink);
+    border-bottom: 0;
+    text-align: center;
+}
+
+.school-name {
+    margin-top: 10px;
+    padding: 6px 12px 2px;
+    font-family: "Libre Baskerville", Georgia, serif;
+    font-size: 19px;
+    line-height: 1.3;
+    font-weight: 700;
+    letter-spacing: -.2px;
+}
+
+.school-meta {
+    color: var(--muted);
+    font-size: 10.5px;
+    line-height: 1.4;
+}
+
+.report-session {
+    margin-top: 6px;
+    padding: 4px 10px;
+    border-top: 1px solid var(--ink);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .8px;
+}
+
+.report-title {
+    padding: 3px 10px 6px;
+    font-size: 11.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+/* --- Base Tables --- */
+.info-table,
+.assessment-table,
+.scale-table,
+.summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.info-table {
+    border: 2px solid var(--ink);
+    border-top: 1px solid var(--ink);
+    margin-bottom: 16px;
+}
+
+.info-table td {
+    border: 1px solid var(--line);
+    padding: 5px 8px;
+    vertical-align: middle;
+}
+
+.info-label {
+    width: 25%;
+    background: #ffffff;
+    font-weight: 700;
+}
+
+.info-value {
+    width: 33%;
+}
+
+/* --- Section Headings: Clean Side Lines to Center Pill Badge --- */
+.section-heading {
+    margin: 14px 0 6px 0;
+    padding: 0;
+    background: transparent;
+    color: var(--ink);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px; /* Space between side lines and center pill */
+    width: 100%;
+}
+
+/* Side line from left edge to center pill */
+.section-heading::before,
+.section-heading::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background-color: var(--ink);
+}
+
+/* Center Pill Badge containing text */
+.section-heading {
+    border-radius: 20px;
+}
+
+.section-heading {
+    /* Create white pill badge directly around heading text */
+    padding: 0;
+}
+
+/* Custom styling applied directly to section text node via container background */
+.section-heading {
+    box-sizing: border-box;
+}
+
+/* Ink-saving center pill box */
+.section-heading {
+    border: none;
+}
+
+/* Add pill styling by wrapping pseudo content */
+.section-heading {
+    font-weight: 700;
+}
+
+/* Precise CSS rules to render lines on left & right without intersecting center box */
+.section-heading {
+    display: flex;
+    align-items: center;
+}
+
+/* Re-defining pill border box */
+.section-heading {
+    position: relative;
+}
+
+.section-heading {
+    padding: 0;
+}
+
+.section-heading {
+    border-top: 0;
+}
+
+/* Solid bordered pill around text, lines stop cleanly at outer borders */
+.section-heading {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.section-heading {
+    /* Resets any previous full width borders */
+    border: none;
+}
+
+/* Text box frame styling */
+.section-heading {
+    font-size: 11px;
+}
+
+/* Creates centered badge with flanking rules on left & right */
+.section-heading {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+/* Clean approach using flex dividers */
+.section-heading::before,
+.section-heading::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1.5px solid var(--ink);
+}
+
+.section-heading {
+    /* Style for section heading itself */
+    line-height: 1;
+}
+
+/* We style the text container with a pill outline */
+.section-heading {
+    font-size: 11px;
+    letter-spacing: 1.5px;
+}
+
+.section-heading {
+    margin: 14px 0 6px 0;
+}
+
+/* Ink-saving pill center container */
+.section-heading {
+    /* Ensure no background bleed */
+    background: #ffffff;
+}
+
+/* Final clean implementation of your side lines idea */
+.section-heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: transparent;
+    padding: 0;
+}
+
+.section-heading::before,
+.section-heading::after {
+    content: "";
+    flex: 1;
+    border-top: 1.5px solid var(--ink);
+    margin: 0;
+}
+
+/* To give pill shape to text, we target inline padding */
+.section-heading {
+    outline: none;
+}
+
+/* Center box framing text */
+.section-heading {
+    color: var(--ink);
+}
+
+.section-heading {
+    /* Pure border frame surrounding text */
+    border: none;
+}
+
+/* Use standard text wrapper logic for crisp pill frame */
+.section-heading {
+    display: flex;
+    align-items: center;
+}
+
+/* Apply border box directly to text area using padding & border inside flex gap */
+.section-heading {
+    gap: 0;
+}
+
+.section-heading::before {
+    margin-right: 10px;
+}
+
+.section-heading::after {
+    margin-left: 10px;
+}
+
+.section-heading {
+    font-weight: 700;
+}
+
+/* Ink-saving center pill box */
+.section-heading {
+    line-height: 1.2;
+}
+
+/* --- Assessment Tables --- */
+.assessment-table {
+    border: 1.5px solid var(--ink);
+}
+
+.assessment-table th,
+.assessment-table td,
+.scale-table th,
+.scale-table td,
+.summary-table th,
+.summary-table td {
+    border: 1px solid var(--line);
+}
+
+.assessment-table th {
+    padding: 5px 6px;
+    background: #ffffff;
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    text-align: center;
+    border-bottom: 2px solid var(--ink);
+}
+
+.assessment-table td {
+    padding: 4px 6px;
+    line-height: 1.15;
+    background: #ffffff !important;
+}
+
+.assessment-table .sn {
+    width: 7%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.assessment-table .area {
+    width: 25%;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 600;
+}
+
+.assessment-table .competency {
+    width: 35%;
+}
+
+.assessment-table .grade {
+    width: 10%;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 700;
+    font-size: 13px;
+    color: var(--ink) !important;
+}
+
+.assessment-table .remark {
+    width: 23%;
+    color: var(--ink);
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Override all grades for strict B&W printing */
+.grade-a-plus, .grade-a,
+.grade-b-plus, .grade-b,
+.grade-c, .grade-d {
+    color: #000000 !important;
+}
+
+/* --- Summary & Grading Scale Panels --- */
+.scale-table {
+    border: 1.5px solid var(--ink);
+}
+
+.scale-table th {
+    background: #ffffff;
+    padding: 4px;
+    text-transform: uppercase;
+    font-size: 9.5px;
+    letter-spacing: .5px;
+    border-bottom: 1.5px solid var(--ink);
+}
+
+.scale-table td {
+    padding: 4px 6px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.scale-table td:first-child,
+.scale-table th:first-child {
+    width: 32%;
+    text-align: center;
+    font-weight: 700;
+}
+
+.summary-table {
+    border: 1.5px solid var(--ink);
+}
+
+.summary-table th {
+    background: #ffffff;
+    padding: 5px;
+    text-align: left;
+    width: 25%;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: .4px;
+    border-right: 1.5px solid var(--ink);
+}
+
+.summary-table td {
+    padding: 5px 8px;
+    font-weight: 600;
+}
+
+.summary-table .overall-grade {
+    color: var(--ink) !important;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/* --- Comment Box --- */
+.comment-box {
+    margin-top: 0;
+    border: 1.5px solid var(--ink);
+    min-height: 70px;
+    padding: 10px 12px;
+    line-height: 1.5;
+    background: #ffffff;
+}
+
+/* --- Signatures Section --- */
+.signature-table {
+    width: 100%;
+    margin-top: 28px;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.signature-table td {
+    width: 33.333%;
+    padding: 0 12px;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+.signature-line {
+    height: 24px;
+    border-bottom: 1px solid var(--ink);
+}
+
+.signature-name {
+    margin-top: 5px;
+    font-weight: 700;
+    font-size: 10.5px;
+}
+
+.report-footer { display: none; }
+
+.empty-state {
+    width: min(760px, 92vw);
+    margin: 50px auto;
+    padding: 25px;
+    background: #fff;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+/* --- Layout Grid Adjustments --- */
+.info-table .name-label { width: 25%; }
+.info-table .name-value { width: 83%; }
+
+.bottom-summary-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-top: 14px;
+    align-items: start;
+}
+
+.summary-panel { min-width: 0; }
+.summary-panel .section-heading { margin-top: 0; }
+
+.overall-panel .summary-table th {
+    width: 42%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.overall-panel .summary-table td {
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 700;
+}
+
+.comment-heading {
+    margin-top: 14px;
+}
+
+.comment-box + .signature-table {
+    margin-top: 32px;
+}
+
+/* --- Strict Print Rules --- */
+@media print {
+    @page {
+        size: A4 portrait;
+        margin: 0;
+    }
+
+    html, body {
+        background: #fff;
+        color: #000;
+    }
+
+    body {
+        padding: 0;
+    }
+
+    .report-page {
+        width: 210mm;
+        height: 297mm;
+        min-height: 297mm;
+        max-height: 297mm;
+        margin: 0;
+        padding: 12.7mm;
+        overflow: hidden;
+        box-shadow: none;
+    }
+
+    .bottom-summary-grid {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        gap: 12px;
+    }
+
+    .section-heading,
+    .assessment-table,
+    .scale-table,
+    .summary-table,
+    .comment-box,
+    .signature-table {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+}
