@@ -1,0 +1,1610 @@
+[
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Aarav Subedi",
+    "roll": "01",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Reading",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Speaking",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Writing",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Counting",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "A+",
+      "attendance": "100%"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Parnav Rasaili",
+    "roll": "02",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Reading",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Speaking",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Writing",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Counting",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "A+",
+            "remark": "Excellent"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "A+",
+            "remark": "Excellent"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "ap",
+      "attendance": "100"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Priyansh Thapa",
+    "roll": "03",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "ap",
+      "attendance": "100"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Rusen Tamang",
+    "roll": "04",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "a",
+      "attendance": "88"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Subi Subedi",
+    "roll": "05",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "bp",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "a",
+      "attendance": "100"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Shyera Shrestha",
+    "roll": "06",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "bp",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "ap",
+      "attendance": "100"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Sanvi Baral",
+    "roll": "07",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "ap",
+      "attendance": "91"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Sanvika Gurung",
+    "roll": "08",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "ap",
+      "attendance": "84"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Alex Thapa",
+    "roll": "09",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "a",
+      "attendance": "82"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Roshni Thapa",
+    "roll": "10",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "bp",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "a",
+      "attendance": "100"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Aayansh Luhar",
+    "roll": "11",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "bp",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "a",
+      "attendance": "100"
+    },
+    "remarks": ""
+  },
+  {
+    "school": {
+      "name": "Narayani Kids Zone Montessori Pre School",
+      "location": "Bharatpur-21, Chitwan",
+      "contact": "Phone: 9866331795"
+    },
+    "name": "Manyata Pariyar",
+    "roll": "12",
+    "grade": "Nursery B",
+    "studentInfo": {
+      "academic_year": "2083 B.S.",
+      "term": "First Term",
+      "exam_title": "First Learning Assessment"
+    },
+    "learningAreas": [
+      {
+        "area": "Language Development",
+        "competencies": [
+          {
+            "name": "Listening",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Reading",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Speaking",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Writing",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Mathematics",
+        "competencies": [
+          {
+            "name": "Number Recognition",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Counting",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Simple Operation",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Practical Life",
+        "competencies": [
+          {
+            "name": "Selfcare",
+            "grade": "a",
+            "remark": "Good"
+          },
+          {
+            "name": "Classroom Responsibility",
+            "grade": "ap",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Sensorial Activities",
+        "competencies": [
+          {
+            "name": "Sorting and Matching",
+            "grade": "ap",
+            "remark": "Good"
+          },
+          {
+            "name": "Shape and Colour Recognition",
+            "grade": "bp",
+            "remark": "Good"
+          }
+        ]
+      },
+      {
+        "area": "Social & Emotional Development",
+        "competencies": [
+          {
+            "name": "Co-operation",
+            "grade": "a",
+            "remark": "Good"
+          }
+        ]
+      }
+    ],
+    "development": [],
+    "gradingScale": [
+      {
+        "grade": "A+",
+        "description": "Outstanding"
+      },
+      {
+        "grade": "A",
+        "description": "Excellent"
+      },
+      {
+        "grade": "B+",
+        "description": "Very Good"
+      },
+      {
+        "grade": "B",
+        "description": "Good"
+      },
+      {
+        "grade": "C",
+        "description": "Developing"
+      },
+      {
+        "grade": "D",
+        "description": "Needs Support"
+      }
+    ],
+    "summary": {
+      "overallGrade": "ap",
+      "attendance": "95"
+    },
+    "remarks": ""
+  }
+]
